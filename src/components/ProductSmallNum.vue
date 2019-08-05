@@ -67,7 +67,7 @@
     </div>
   </div>
   <div class="conmmonUse">
-    <div class="useTitle">现在使用云掌互联，让您的应用搭上云通讯快车</div>
+    <div class="useTitle">现在使用云之讯，让您的应用搭上云通讯快车</div>
     <div class="useAction">立即使用</div>
   </div>
   <myfooter></myfooter>

@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       headerLogoSrc: "../../static/images/main/logo.png",
-      headerLogoAlt: "云掌互联",
+      headerLogoAlt: "云之讯",
       hederUlData: [
         "首页",
         "产品",
@@ -138,7 +138,7 @@ export default {
 }
 
 .header_logo img {
-  margin-top: 10px;
+  margin-top: 24px;
   margin-left: 380px;
 }
 

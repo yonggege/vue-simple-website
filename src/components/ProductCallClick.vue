@@ -67,7 +67,7 @@
     </div>
   </div>
   <div class="conmmonUse">
-    <div class="useTitle">现在使用云掌互联，让您的应用搭上云通讯快车</div>
+    <div class="useTitle">现在使用云之讯，让您的应用搭上云通讯快车</div>
     <div class="useAction">立即使用</div>
   </div>
   <myfooter></myfooter>
@@ -108,7 +108,7 @@ export default {
         }
       ],
       commonIntroductionInfos:
-        "用户通过PC或者APP一键拨号，业务系统调用云掌互联API接口，平台发起两路呼叫，实现双方通话。",
+        "用户通过PC或者APP一键拨号，业务系统调用云之讯API接口，平台发起两路呼叫，实现双方通话。",
       sceneData: [
         {
           sceneImgs: "../../static/images/callclick/scene1.png",

@@ -257,7 +257,7 @@ export default {
         }
       ],
 
-      newsBigTitle: "云掌互联.新动态",
+      newsBigTitle: "云之讯.新动态",
       newsData: [
         {
           newsImg: "../../static/images/main/news1.png",
@@ -268,7 +268,7 @@ export default {
         },
         {
           newsImg: "../../static/images/main/news2.png",
-          newsSamllTitle: "云掌互联，你的流量你做主",
+          newsSamllTitle: "云之讯，你的流量你做主",
           newsInfo:
             "变革：人工智能+全营销平台<br>云之讯2018春节放假通知及服务安排",
           newsMore: " → 阅读更多"

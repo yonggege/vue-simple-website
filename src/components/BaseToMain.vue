@@ -15,7 +15,7 @@ export default {
   data() {
     return {
       headerLogoSrc: "../../static/images/main/logo.png",
-      headerLogoAlt: "云掌互联",
+      headerLogoAlt: "云之讯",
       toMainImgs:'../../static/images/main/toMain.png',
       toMainInfo:'返回首页'
     };

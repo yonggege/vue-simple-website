@@ -85,12 +85,12 @@ export default {
           introductionContent: ["开发文档", "SDK下载", "常见问题", "用户协议",'']
         },
         {
-          introductionTitle: "关注云掌互联",
+          introductionTitle: "关注云之讯",
           introductionContent: [],
           image: "../../static/images/main/wx_code.png"
         }
       ],
-      copyrightCom: "© 2018 深圳市云掌互联网络技术有限公司",
+      copyrightCom: "© 2018 深圳市云之讯网络技术有限公司",
       copyrightNum: "粤ICP备14046849号",
       copyrightlicense:
         "增值电信业务经营许可证：粤B2-20140247 深圳市市场监督管理局企业主体身份公示",

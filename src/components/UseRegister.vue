@@ -70,7 +70,7 @@ export default {
       },
       getCodes: "获取验证码",
       agree: "点击注册代表您同意",
-      contracts: "《云掌互联用户使用协议》",
+      contracts: "《云之讯用户使用协议》",
       law: "及相关服务条款",
       registerNows: "立即注册",
       loginInfo: "已有账号？",
