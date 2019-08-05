@@ -1,6 +1,6 @@
 # vue-project
 
-> this is a vue-project
+> this is a vue-project for website
 
 ## Build Setup
 
